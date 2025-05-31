@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kotaksuusu/kotaksuusu/main/banner.png" alt="banner" />
+</p>
+
+
 ### 👋 Halo, saya Kotaksuusu!
 Saya seorang pemula yang tertarik dengan:
 - 🔐 Cybersecurity
