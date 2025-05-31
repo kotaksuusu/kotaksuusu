@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/-Burp%20Suite-000?style=for-the-badge&logo=burpsuite"/>
+  <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark"/>
 </p>
 
 ---
