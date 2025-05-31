@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/kotaksuusu/kotaksuusu/main/banner.png" alt="kotaksuusu?" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Hanif Albana</h1>
+<h1 align="center">Hi there 👋, I'm Kotaksuusu</h1>
 
 <p align="center">
-  <em>🎓 Polines | 🧪 Just for learning | 💻 Passionate about cybersecurity & AI</em>
+  <em>🎓 Collage | 🧪 Just for learning | 💻 Passionate about cybersecurity & AI</em>
 </p>
 
 ---
